@@ -1,0 +1,1 @@
+Instagram Bot using InstaPy. Currently configured to interact with #Dog posts.
