@@ -38,3 +38,4 @@ session.set_do_comment(enabled = True, percentage = 20)
 
 
 session.end()
+#ends the whole session
