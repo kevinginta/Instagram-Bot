@@ -3,7 +3,7 @@ from msedge.selenium_tools import EdgeOptions
 from msedge.selenium_tools import Edge
 from instapy import InstaPy
 
-#LOGIN CODE FOR EDGE
+#LOGIN CODE FOR EDGE ONLY
 """
 options = EdgeOptions()
 options.use_chromium = True
